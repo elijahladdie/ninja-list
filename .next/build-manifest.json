@@ -1,0 +1,60 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/_mmCmp3bcquwj41bd9F12/_buildManifest.js",
+    "static/_mmCmp3bcquwj41bd9F12/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-0c7baedefba6b077.js",
+      "static/chunks/main-75623049b75f64cc.js",
+      "static/css/7cbacc184c3eba09.css",
+      "static/chunks/pages/index-dc1ea37e09e2e9dd.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-0c7baedefba6b077.js",
+      "static/chunks/main-75623049b75f64cc.js",
+      "static/chunks/pages/404-a60516f908965a9a.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-0c7baedefba6b077.js",
+      "static/chunks/main-75623049b75f64cc.js",
+      "static/css/d69dcfaaaeab8ad1.css",
+      "static/chunks/pages/_app-b88ab5d2a8198886.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-0c7baedefba6b077.js",
+      "static/chunks/main-75623049b75f64cc.js",
+      "static/chunks/pages/_error-08a9db0f433628d8.js"
+    ],
+    "/about": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-0c7baedefba6b077.js",
+      "static/chunks/main-75623049b75f64cc.js",
+      "static/chunks/pages/about-5b446d798ece18cb.js"
+    ],
+    "/ninjas": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-0c7baedefba6b077.js",
+      "static/chunks/main-75623049b75f64cc.js",
+      "static/css/191f0637f34f9308.css",
+      "static/chunks/pages/ninjas-c3dde2c6e4ce2c41.js"
+    ],
+    "/ninjas/[id]": [
+      "static/chunks/webpack-fd8027ecb5121007.js",
+      "static/chunks/framework-0c7baedefba6b077.js",
+      "static/chunks/main-75623049b75f64cc.js",
+      "static/chunks/pages/ninjas/[id]-a10e3c070c07ca97.js"
+    ]
+  },
+  "ampFirstPages": []
+}
